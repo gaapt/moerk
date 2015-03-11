@@ -1,2 +1,2 @@
 # moerk
-functional app to adapt to cluster
+test for scaling cluster
